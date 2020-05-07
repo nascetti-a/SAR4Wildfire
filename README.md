@@ -8,9 +8,7 @@ With its synoptic view, large area coverage at frequent revisits, satellite remo
 Project Team
 
 Yifang Ban,  Professor & Director, Division of Geoinformatics, KTH
-
 Andrea Nascetti, Research Scientist, Divison of Geoinformatics, KTH
-
 Puzhao Zhang, PhD Student, Divison of Geoinformatics, KTH
 
 
