@@ -14,4 +14,4 @@ Andrea Nascetti, Research Scientist, Divison of Geoinformatics, KTH
 Puzhao Zhang, PhD Student, Divison of Geoinformatics, KTH
 
 
-This is the official project repository where the developed code and the obtanined resutls are regularly updated. 
+This is the official project repository where the developed code and the obtanined results are regularly updated. 
